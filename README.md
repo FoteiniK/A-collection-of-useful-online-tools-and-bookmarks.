@@ -82,4 +82,4 @@ This is a collection of very helpful resources. Feel free to add your own resour
 
 ## other useful links
 * [markdown-cheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
+<hr/>
