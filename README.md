@@ -68,7 +68,7 @@ This is a collection of very helpful resources. Feel free to add your own resour
 * [Fun-Fun-Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 <hr/>
 
-## INTERVIEW PREPERATION and QUIZES
+## INTERVIEW PREPARATION and QUIZES
 * https://interviewing.io/
 * https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.html
 * https://www.freecodecamp.org/news/beaucarnes/fearless-interview--9kN7Oks
