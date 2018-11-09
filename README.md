@@ -1,4 +1,4 @@
-# A-collection-of-useful-online-tools-and-bookmarks.
+# A-collection-of-useful-resources.
 This is a collection of very helpful resources. Feel free to add your own resources and create a PR :) 
 
 ## ONLINE TOOLS
@@ -66,6 +66,7 @@ This is a collection of very helpful resources. Feel free to add your own resour
 * [net-ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 * [Fun-Fun-Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [Computable Universe](https://www.youtube.com/channel/UCBmKU1FHwhAoljWDORWgcRA/playlists)
 <hr/>
 
 ## INTERVIEW PREPARATION and QUIZES
