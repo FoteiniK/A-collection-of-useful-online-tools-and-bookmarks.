@@ -1,5 +1,5 @@
 # A-collection-of-useful-online-tools-and-bookmarks.
-
+This is a collection of very helpful resources. Feel free to add your own resources and create a PR :) 
 
 ## ONLINE TOOLS
 ### CODING 
