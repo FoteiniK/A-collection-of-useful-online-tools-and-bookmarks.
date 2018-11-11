@@ -6,6 +6,7 @@ This is a collection of very helpful resources. Feel free to add your own resour
 #### _online editors_
  * https://codesandbox.io/?from-app=1
  * https://codepen.io/
+ * https://stackblitz.com/
 
 #### _code validators_
 * https://validator.w3.org/
