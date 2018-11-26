@@ -81,6 +81,7 @@ This is a collection of very helpful resources. Feel free to add your own resour
 * http://davidshariff.com/js-quiz/
 * https://quiz.triplebyte.com/
 * https://www.hackerrank.com/tests/sample
+* https://github.com/jayshah19949596/CodingInterviews
 
 ## other useful links
 * [markdown-cheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
